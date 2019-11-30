@@ -1,0 +1,5 @@
+com.formation.projet.model.compte
+com.formation.projet.model.personne
+com.formation.projet.persistance
+com.formation.projet.presentation
+com.formation.projet.service

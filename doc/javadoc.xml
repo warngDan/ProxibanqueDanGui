@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<project default="javadoc">
+    <target name="javadoc">
+        <javadoc access="private" author="true" classpath="." destdir="" nodeprecated="false" nodeprecatedlist="false" noindex="false" nonavbar="false" notree="false" packagenames="com.formation.projet.persistance,com.formation.projet.model.personne,com.formation.projet.service,com.formation.projet.model.compte,com.formation.projet.presentation" source="12" sourcepath="../src" splitindex="true" use="true" version="true">
+            <link href="file:////ROCK99/Formation/Daniel/JAVA/daniel-workspace/ProxiBanqueDanielGuillaume/doc/"/>
+        </javadoc>
+    </target>
+</project>
