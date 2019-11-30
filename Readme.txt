@@ -1,7 +1,7 @@
 	************************************
 *****  	Description de l'application:   	*****
 	************************************
-Proxybanque est une application permettant d'aider des conseillers bancaires à gérer une liste de clients.
+Proxibanque est une application permettant d'aider des conseillers bancaires à gérer une liste de clients.
 
 
 
@@ -19,8 +19,8 @@ Pré-requis:
     Ouvrir un invite de commande (cmd.exe) et changer le repertoire courant sur le répertoire parent:
         Copier le path du répertoire parent contenant le fichier .jar
         Taper cd path puis pressez entrée (avec le path copié precedemment)
-    	Taper java -jar ProxiBanqueSI.jar et presser "Entrée".
-        La Demo Java ProxiBanqueSI s'execute sur l'invite de commandes
+    	Taper java -jar ProxiBanqueDG.jar et presser "Entrée".
+        La Demo Java ProxiBanqueDG s'execute sur l'invite de commandes
 
 	************************************
 *****  	Documentation:			  	*****
