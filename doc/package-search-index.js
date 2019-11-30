@@ -1,1 +1,0 @@
-packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"com.formation.projet.model.compte"},{"l":"com.formation.projet.model.personne"},{"l":"com.formation.projet.persistance"},{"l":"com.formation.projet.presentation"},{"l":"com.formation.projet.service"}]
